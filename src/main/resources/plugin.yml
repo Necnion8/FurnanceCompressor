@@ -1,0 +1,6 @@
+name: FurnaceCompressor
+version: '${version}'
+main: com.gmail.necnionch.myplugin.furnacecompressor.bukkit.FurnaceCompressorPlugin
+api-version: 1.18
+depend: [ MetaCraftingAPI ]
+authors: [ Necnion8 ]

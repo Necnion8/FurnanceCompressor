@@ -1,0 +1,16 @@
+
+compressed:
+  tier1:
+    # 精錬速度 (%) 100%で通常速度
+    speed: 120
+    # 精錬ボーナス (%) 確率ヒットで結果アイテムを2倍に
+    double-bonus: 5
+  tier2:
+    speed: 150
+    double-bonus: 15
+  tier3:
+    speed: 200
+    double-bonus: 30
+  tier4:
+    speed: 300
+    double-bonus: 100
